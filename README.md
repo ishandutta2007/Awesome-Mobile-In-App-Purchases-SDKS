@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS/forks"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Mobile-In-App-Purchases-SDKS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0" /></a>
 <a href="https://github.com/ishandutta2077"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,7 +67,7 @@ Commercial, cloud-hosted in-app purchase infrastructure, analytics engines, and 
 
 Community-maintained client libraries, StoreKit/Google Play Billing abstractions, receipt validation utilities, and self-hosted subscription backends. Sorted in descending order by GitHub stargazers. ⭐
 
-| Project | ⭐ GitHub Stars | 💻 Language / Tech Stack | 📜 License | 🏗️ Architecture Type | 📝 Description |
+| Project | ⭐ GitHub_Stars | 💻 Language / Tech Stack | 📜 License | 🏗️ Architecture Type | 📝 Description |
 |---|---|---|---|---|---|
 | **[SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)** | [![Stars](https://img.shields.io/github/stars/bizz84/SwiftyStoreKit?style=social&color=white)](https://github.com/bizz84/SwiftyStoreKit/stargazers) | Swift 🍏 | MIT | Client Library (Apple) | Lightweight, closure-based In-App Purchases Swift framework for iOS, tvOS, and macOS StoreKit. |
 | **[react-native-iap](https://github.com/hyochan/react-native-iap)** | [![Stars](https://img.shields.io/github/stars/hyochan/react-native-iap?style=social&color=white)](https://github.com/hyochan/react-native-iap/stargazers) | TypeScript / Java / Obj-C ⚛️ | MIT | Client Library (Cross-platform) | Standard open-source in-app purchase and subscription module for React Native with OpenIAP compliance across App Store, Google Play, and Amazon. |
